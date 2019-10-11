@@ -1,0 +1,8 @@
+Origin: Wetzle's Repo
+Label: Wetzle
+Suite: stable
+Version: 1.0
+Codename: Wetzle
+Architecture: iphoneos-arm
+Components: main
+Description: Some ++apps that are imported to Cydia so that you don't have to suffer from expired certificates :).
